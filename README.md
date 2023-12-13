@@ -15,4 +15,4 @@
 3. Найти Dealgate в списке устройств
 4. По инструкции добавить аккаунт
 5. Обновить список устройств и добавить климат контроль
-6. Теперь при нажатии кнопку кормушка будет включать подачу корма
+![Дом с Алисой]([путь_к_изображению](https://github.com/KonurbaevaTN/TP/blob/main/source/wSVv8C9sDnk.jpg)https://github.com/KonurbaevaTN/TP/blob/main/source/wSVv8C9sDnk.jpg)
