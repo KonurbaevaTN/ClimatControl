@@ -1,9 +1,9 @@
 # Инструкция для использования «Климат контроль в помещении»
 ## Часть 1 «Подключение климат контроля как отдельного устройства»
-1. Зайти на dealgate.ru
+### 1. Зайти на dealgate.ru
 ![Логотип моего проекта](https://github.com/KonurbaevaTN/TP/blob/main/source/dealgate.png)
-3. Нажать на кнопку войти
-4. Использовать вход через Яндекс.
+### 3. Нажать на кнопку войти
+### 4. Использовать вход через Яндекс.
 ![Логотип моего проекта](https://github.com/KonurbaevaTN/TP/blob/main/source/%D0%B2%D1%85%D0%BE%D0%B4.png)
 6. Настроить логин и пароль для MQTT Сервер.
 ![Логотип моего проекта](https://github.com/KonurbaevaTN/TP/blob/main/source/f0f6k0U6oao.png)
