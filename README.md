@@ -14,6 +14,8 @@
 ![Логотип моего проекта](https://github.com/KonurbaevaTN/ClimatControl/tree/main/ClimatControl/source/YmJhPXoCitk.png)
 ### 8. Оставить все параметры как есть, включить оповещение Яндекса и проставить MQTT topic. После сохранить.
 ![Логотип моего проекта](https://github.com/KonurbaevaTN/ClimatControl/tree/main/ClimatControl/source/t4NbTSSpJd0.png)
+### Теперь данные в dealgate будут поступвать таким образом:
+![Логотип моего проекта](https://github.com/KonurbaevaTN/ClimatControl/blob/main/ClimatControl/source/2y-3m1Q2va8.png)
 
 ## Часть 2 «Подключение климат контроля в приложении Дом с Алисой»
 ### 1. Зайти в приложение Умный дом и нажать на плюс.
